@@ -21,7 +21,7 @@ Ce projet simule le fonctionnement de la **machine Enigma** utilisée durant la 
 - **Modularisation avancée** (Plugboard, Rotor, Reflector, etc.)
 
 ## 🚀 Lancer l'application
--Lancement :
+- Lancement :
   - python Accueil.py
 
 ## 📖 Manuel d'utilisation
